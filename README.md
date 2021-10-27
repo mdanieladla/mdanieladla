@@ -25,10 +25,10 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 <a href="https://github.com/" target="_blank"> <img  src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Npm" width="40" height="40"/> </a> 
-<a href="https://github.com/" target="_blank"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/> </a> 
-<a href="https://github.com/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" alt="Zeplin" width="40" height="40"/> </a> 
-<a href="https://github.com/" target="_blank"> <img  src="https://img.icons8.com/color/452/slack-new.png" alt="Slack" width="40" height="40"/> </a> 
+<a href="https://www.npmjs.com/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Npm" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/> </a> 
+<a href="https://zeplin.io/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" alt="Zeplin" width="40" height="40"/> </a> 
+<a href="https://slack.com/intl/es-es/" target="_blank"> <img  src="https://img.icons8.com/color/452/slack-new.png" alt="Slack" width="40" height="40"/> </a> 
 
 
 
