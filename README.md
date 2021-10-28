@@ -5,6 +5,9 @@
 - 🌱 I´ve just finished a bootcamp in [Adalab](https://adalab.es/) and learned:  **HTML, CSS, JAVASCRIPT, REACT, NODEJS**
 
 - Some of my hobbies include **reading**, **nature**, **animals**, **traveling**...
+- 👨‍💻 All of my projects are available at [https://mdanieladla.github.io/portfolio/](https://mdanieladla.github.io/portfolio/)
+
+- 📫 How to reach me **https://www.linkedin.com/in/mdanielad/**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15613090/danieladla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15613090/danieladla" height="30" width="40" /></a>
