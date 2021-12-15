@@ -36,3 +36,5 @@
 
 
 [![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdanieladla)](https://github.com/mdanieladla/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdanieladla)](https://github.com/mdanieladla/github-readme-stats)
