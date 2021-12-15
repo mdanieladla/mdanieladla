@@ -14,6 +14,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15613090/danieladla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15613090/danieladla" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mdanielad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniela Darnea LinkedIn" height="30" width="40" /></a>
 
+<div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -32,7 +33,7 @@
 <a href="https://www.npmjs.com/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Npm" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/> </a> 
 <a href="https://zeplin.io/" target="_blank"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" alt="Zeplin" width="40" height="40"/> </a> 
-<a href="https://slack.com/intl/es-es/" target="_blank"> <img  src="https://img.icons8.com/color/452/slack-new.png" alt="Slack" width="40" height="40"/> </a> 
+<a href="https://slack.com/intl/es-es/" target="_blank"> <img  src="https://img.icons8.com/color/452/slack-new.png" alt="Slack" width="40" height="40"/> </a> </div>
 
 
 
