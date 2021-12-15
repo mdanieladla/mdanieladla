@@ -39,3 +39,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdanieladla&layout=compact)](https://github.com/mdanieladla/github-readme-stats)
 
+
+<a href="https://github.com/mdanieladla/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdanieladla&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/mdanieladla/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdanieladla&repo=convoychat" />
+</a>
