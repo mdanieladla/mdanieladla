@@ -41,9 +41,4 @@
  [![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdanieladla&show_icons=true )](https://github.com/mdanieladla/github-readme-stats)
 
 
-<a href="https://github.com/mdanieladla/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanieladla&layout=compact" />
-</a>
-<a href="https://github.com/mdanieladla/convoychat">
-  <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=mdanieladla" />
-</a>
+
