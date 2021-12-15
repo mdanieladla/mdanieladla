@@ -41,8 +41,8 @@
 
 
 <a href="https://github.com/mdanieladla/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdanieladla" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanieladla&layout=compact" />
 </a>
 <a href="https://github.com/mdanieladla/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanieladla&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdanieladla" />
 </a>
