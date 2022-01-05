@@ -6,7 +6,7 @@
 
 - ⚡ Some of my hobbies include **reading**, **nature**, **animals**, **traveling**...
 
-- 👨‍💻 All of my projects are available at [https://mdanieladla.github.io/portfolio/](https://mdanieladla.github.io/portfolio/) (in construction 🚧 ....)
+- 👨‍💻 All of my projects are available at [https://mdanieladla.github.io/portfolio/](https://mdanieladla.github.io/portfolio/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/mdanielad/**
 
