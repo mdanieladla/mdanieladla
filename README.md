@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Frontend Developer from Spain</h3>
 
-- 🌱 I´ve just finished a bootcamp in [Adalab](https://adalab.es/) and learned:  **HTML, CSS, JAVASCRIPT, REACT, NODEJS**
+- 🌱 I am currently working with  **HTML, CSS, SCSS, JAVASCRIPT, ANGULAR**
 
 - ⚡ Some of my hobbies include **reading**, **nature**, **animals**, **traveling**...
 
