@@ -1,6 +1,6 @@
 ## Hi 👋, I'm [*Daniela*](https://mdanieladla.github.io/portfolio/)
 
-<h3 align="center">A passionate Frontend Developer from Spain</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 - 🌱 I am currently working with  **HTML, CSS, SCSS, JAVASCRIPT, ANGULAR**
 
