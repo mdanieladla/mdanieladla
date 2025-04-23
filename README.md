@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 🌱 I am currently working with  **HTML, CSS, SCSS, JAVASCRIPT, ANGULAR**
+- 🌱 I am currently working with  **HTML, CSS, SCSS, JAVASCRIPT, ANGULAR, LIFERAY, FIGMA**
 
 - ⚡ Some of my hobbies include **reading**, **nature**, **animals**, **traveling**...
 
