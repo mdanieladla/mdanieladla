@@ -36,5 +36,4 @@
 <a href="https://slack.com/intl/es-es/" target="_blank"> <img  src="https://img.icons8.com/color/452/slack-new.png" alt="Slack" width="40" height="40"/> </a> </div>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdanieladla&layout=compact)](https://github.com/mdanieladla/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanieladla"/>
